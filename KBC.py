@@ -57,4 +57,3 @@ if (money == 0) :
 
 else:
     print(f"Congratulations, Your take home money is {money}")
-# print(f"Congratulations, Your take home money is {money}")
